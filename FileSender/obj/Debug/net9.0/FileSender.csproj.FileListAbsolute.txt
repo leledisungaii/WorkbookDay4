@@ -1,0 +1,14 @@
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileSender\bin\Debug\net9.0\FileSender.exe
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileSender\bin\Debug\net9.0\FileSender.deps.json
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileSender\bin\Debug\net9.0\FileSender.runtimeconfig.json
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileSender\bin\Debug\net9.0\FileSender.dll
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileSender\bin\Debug\net9.0\FileSender.pdb
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileSender\obj\Debug\net9.0\FileSender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileSender\obj\Debug\net9.0\FileSender.AssemblyInfoInputs.cache
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileSender\obj\Debug\net9.0\FileSender.AssemblyInfo.cs
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileSender\obj\Debug\net9.0\FileSender.csproj.CoreCompileInputs.cache
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileSender\obj\Debug\net9.0\FileSender.dll
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileSender\obj\Debug\net9.0\refint\FileSender.dll
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileSender\obj\Debug\net9.0\FileSender.pdb
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileSender\obj\Debug\net9.0\FileSender.genruntimeconfig.cache
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileSender\obj\Debug\net9.0\ref\FileSender.dll
