@@ -1,0 +1,28 @@
+C:\Windows\System32\FileReceiverServer\obj\Debug\net9.0-windows\FileReceiverServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\System32\FileReceiverServer\obj\Debug\net9.0-windows\FileReceiverServer.AssemblyInfoInputs.cache
+C:\Windows\System32\FileReceiverServer\obj\Debug\net9.0-windows\FileReceiverServer.AssemblyInfo.cs
+C:\Windows\System32\FileReceiverServer\obj\Debug\net9.0-windows\FileReceiverServer.csproj.CoreCompileInputs.cache
+C:\Windows\System32\FileReceiverServer\bin\Debug\net9.0-windows\FileReceiverServer.exe
+C:\Windows\System32\FileReceiverServer\bin\Debug\net9.0-windows\FileReceiverServer.deps.json
+C:\Windows\System32\FileReceiverServer\bin\Debug\net9.0-windows\FileReceiverServer.runtimeconfig.json
+C:\Windows\System32\FileReceiverServer\bin\Debug\net9.0-windows\FileReceiverServer.dll
+C:\Windows\System32\FileReceiverServer\bin\Debug\net9.0-windows\FileReceiverServer.pdb
+C:\Windows\System32\FileReceiverServer\obj\Debug\net9.0-windows\FileReceiverServer.dll
+C:\Windows\System32\FileReceiverServer\obj\Debug\net9.0-windows\refint\FileReceiverServer.dll
+C:\Windows\System32\FileReceiverServer\obj\Debug\net9.0-windows\FileReceiverServer.pdb
+C:\Windows\System32\FileReceiverServer\obj\Debug\net9.0-windows\FileReceiverServer.genruntimeconfig.cache
+C:\Windows\System32\FileReceiverServer\obj\Debug\net9.0-windows\ref\FileReceiverServer.dll
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileReceiverServer\bin\Debug\net9.0-windows\FileReceiverServer.exe
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileReceiverServer\bin\Debug\net9.0-windows\FileReceiverServer.deps.json
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileReceiverServer\bin\Debug\net9.0-windows\FileReceiverServer.runtimeconfig.json
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileReceiverServer\bin\Debug\net9.0-windows\FileReceiverServer.dll
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileReceiverServer\bin\Debug\net9.0-windows\FileReceiverServer.pdb
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileReceiverServer\obj\Debug\net9.0-windows\FileReceiverServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileReceiverServer\obj\Debug\net9.0-windows\FileReceiverServer.AssemblyInfoInputs.cache
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileReceiverServer\obj\Debug\net9.0-windows\FileReceiverServer.AssemblyInfo.cs
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileReceiverServer\obj\Debug\net9.0-windows\FileReceiverServer.csproj.CoreCompileInputs.cache
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileReceiverServer\obj\Debug\net9.0-windows\FileReceiverServer.dll
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileReceiverServer\obj\Debug\net9.0-windows\refint\FileReceiverServer.dll
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileReceiverServer\obj\Debug\net9.0-windows\FileReceiverServer.pdb
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileReceiverServer\obj\Debug\net9.0-windows\FileReceiverServer.genruntimeconfig.cache
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileReceiverServer\obj\Debug\net9.0-windows\ref\FileReceiverServer.dll

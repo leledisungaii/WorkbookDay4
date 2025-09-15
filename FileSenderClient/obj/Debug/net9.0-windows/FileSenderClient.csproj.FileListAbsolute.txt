@@ -1,0 +1,14 @@
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileSenderClient\obj\Debug\net9.0-windows\FileSenderClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileSenderClient\obj\Debug\net9.0-windows\FileSenderClient.AssemblyInfoInputs.cache
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileSenderClient\obj\Debug\net9.0-windows\FileSenderClient.AssemblyInfo.cs
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileSenderClient\obj\Debug\net9.0-windows\FileSenderClient.csproj.CoreCompileInputs.cache
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileSenderClient\bin\Debug\net9.0-windows\FileSenderClient.exe
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileSenderClient\bin\Debug\net9.0-windows\FileSenderClient.deps.json
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileSenderClient\bin\Debug\net9.0-windows\FileSenderClient.runtimeconfig.json
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileSenderClient\bin\Debug\net9.0-windows\FileSenderClient.dll
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileSenderClient\bin\Debug\net9.0-windows\FileSenderClient.pdb
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileSenderClient\obj\Debug\net9.0-windows\FileSenderClient.dll
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileSenderClient\obj\Debug\net9.0-windows\refint\FileSenderClient.dll
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileSenderClient\obj\Debug\net9.0-windows\FileSenderClient.pdb
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileSenderClient\obj\Debug\net9.0-windows\FileSenderClient.genruntimeconfig.cache
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileSenderClient\obj\Debug\net9.0-windows\ref\FileSenderClient.dll
